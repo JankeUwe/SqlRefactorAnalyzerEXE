@@ -10,3 +10,8 @@ See the source repo for documentation, build instructions, and issue tracking.
 
 Download the latest zip from the [Releases](../../releases) page, extract, and run `SqlRefactorAnalyzer.exe`.
 Requires .NET Framework 4.8 (Windows).
+
+## More information
+
+Project page: [powershelldba.de/sqlrefactoranalyzer](https://www.powershelldba.de/sqlrefactoranalyzer/)
+Website: [www.powershelldba.de](https://www.powershelldba.de)
